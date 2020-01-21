@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/netmix-front-deploy/static/css/main.d72792c1.chunk.css",
+    "main.js": "/netmix-front-deploy/static/js/main.0dd07b0e.chunk.js",
+    "main.js.map": "/netmix-front-deploy/static/js/main.0dd07b0e.chunk.js.map",
+    "runtime-main.js": "/netmix-front-deploy/static/js/runtime-main.18a37105.js",
+    "runtime-main.js.map": "/netmix-front-deploy/static/js/runtime-main.18a37105.js.map",
+    "static/css/2.505fe56e.chunk.css": "/netmix-front-deploy/static/css/2.505fe56e.chunk.css",
+    "static/js/2.47b43555.chunk.js": "/netmix-front-deploy/static/js/2.47b43555.chunk.js",
+    "static/js/2.47b43555.chunk.js.map": "/netmix-front-deploy/static/js/2.47b43555.chunk.js.map",
+    "index.html": "/netmix-front-deploy/index.html",
+    "precache-manifest.305407febb857f047309240bd382cd1b.js": "/netmix-front-deploy/precache-manifest.305407febb857f047309240bd382cd1b.js",
+    "service-worker.js": "/netmix-front-deploy/service-worker.js",
+    "static/css/2.505fe56e.chunk.css.map": "/netmix-front-deploy/static/css/2.505fe56e.chunk.css.map",
+    "static/css/main.d72792c1.chunk.css.map": "/netmix-front-deploy/static/css/main.d72792c1.chunk.css.map",
+    "static/media/netmix.png": "/netmix-front-deploy/static/media/netmix.e3b42d2a.png",
+    "static/media/netmix_drop.png": "/netmix-front-deploy/static/media/netmix_drop.66319506.png",
+    "static/media/poster.png": "/netmix-front-deploy/static/media/poster.805548f5.png",
+    "static/media/slick-theme.css": "/netmix-front-deploy/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18a37105.js",
+    "static/css/2.505fe56e.chunk.css",
+    "static/js/2.47b43555.chunk.js",
+    "static/css/main.d72792c1.chunk.css",
+    "static/js/main.0dd07b0e.chunk.js"
+  ]
+}
