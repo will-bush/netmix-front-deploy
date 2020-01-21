@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/netmix-front-deploy/precache-manifest.305407febb857f047309240bd382cd1b.js"
+  "/netmix-front-deploy/precache-manifest.b134e86948c75df04e2772fc71a7b421.js"
 );
 
 self.addEventListener('message', (event) => {

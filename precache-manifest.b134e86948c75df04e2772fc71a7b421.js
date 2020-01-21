@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4a88637bf06eff2ee0f68bca321a5ef",
+    "revision": "66b9fc80346f291ba136cb355a8ec807",
     "url": "/netmix-front-deploy/index.html"
   },
   {
-    "revision": "8f04ed16c159b0551b0d",
+    "revision": "140e09c63794b2c4c530",
     "url": "/netmix-front-deploy/static/css/2.505fe56e.chunk.css"
   },
   {
-    "revision": "c56aeb9b4791f492d1ff",
+    "revision": "3c0d4ed76ff74c932122",
     "url": "/netmix-front-deploy/static/css/main.d72792c1.chunk.css"
   },
   {
-    "revision": "8f04ed16c159b0551b0d",
-    "url": "/netmix-front-deploy/static/js/2.47b43555.chunk.js"
+    "revision": "140e09c63794b2c4c530",
+    "url": "/netmix-front-deploy/static/js/2.e4a499d4.chunk.js"
   },
   {
-    "revision": "c56aeb9b4791f492d1ff",
-    "url": "/netmix-front-deploy/static/js/main.0dd07b0e.chunk.js"
+    "revision": "3c0d4ed76ff74c932122",
+    "url": "/netmix-front-deploy/static/js/main.f87ebd61.chunk.js"
   },
   {
     "revision": "3fb1f4b6df15c00930c0",
